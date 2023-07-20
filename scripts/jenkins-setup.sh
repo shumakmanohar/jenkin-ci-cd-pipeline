@@ -20,5 +20,3 @@ sudo systemctl enable jenkins
 echo "Starting Jenkins"
 sudo systemctl start jenkins
 echo "Done"
-
-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
