@@ -1,4 +1,4 @@
-# jenkin-ci-cd-pipeline added Docker
-test-new-v-2
-adding a webhook test-2 
-Test Repository to build jenkins ci/cd pipeline with github webhooks
+# Streamlining CI/CD with Jenkins: Leveraging SonarQube, Docker, and GitHub Webhooks on AWS
+
+![alt text](screenshot.png)
+[Blog Post ](https://shumak.hashnode.dev/streamlining-cicd-with-jenkins-leveraging-sonarqube-docker-and-github-webhooks-on-aws)
